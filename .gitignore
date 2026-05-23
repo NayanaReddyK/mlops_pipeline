@@ -1,0 +1,20 @@
+# Data (tracked by DVC)
+data/auto-mpg.data
+data/processed/
+
+# Model binaries (tracked by DVC, ignore the actual files)
+models/*.pkl
+models/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Environment
+.env
+.venv/
+venv/
