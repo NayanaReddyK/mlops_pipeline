@@ -1,0 +1,5 @@
+outs:
+- md5: 0fdc24b5a1b47d8971d281667e847cbf
+  size: 9601
+  hash: md5
+  path: auto-mpg-small.data
