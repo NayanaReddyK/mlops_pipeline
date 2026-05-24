@@ -3,7 +3,7 @@ data:
   random_state: 42
 
 model:
-  type: linear_regression   # options: linear_regression, svr_rbf, decision_tree
+  type: decision_tree   # options: linear_regression, svr_rbf, decision_tree
 
 svr:
   kernel: rbf
